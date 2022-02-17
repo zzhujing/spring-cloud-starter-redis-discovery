@@ -1,0 +1,5 @@
+# AutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+spring.cloud.redis.discovery.custom.registry.RedisServiceRegistryAutoConfiguration,\
+spring.cloud.redis.discovery.custom.discovery.RedisDiscoveryAutoConfiguration,\
+spring.cloud.redis.discovery.custom.discovery.RedisDiscoveryClientConfiguration
