@@ -1,5 +1,5 @@
 # 基于Redission + Spring Cloud Commons实现的简易注册中心
-> 实现参考Naocs,仿写，未实现服务的订阅拉取更新
+> 实现参考Naocs,仿写
 
 ## 使用步骤
 
